@@ -23,13 +23,10 @@ Build your own version — don’t just copy.
 
 ---
 
-## 🛠️ Instructions
+## 🛠️ GSAP
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+This project uses the standard `gsap` package for GSAP plugins, including
+ScrollSmoother and SplitText. Install dependencies with `npm install`.
 
 ---
 
@@ -56,4 +53,3 @@ Any usage, extraction, or redistribution of that avatar from my live website is 
 This project is licensed under the Personal Portfolio License (PPL) v1.0.
 
 See the LICENSE file for full details
-
